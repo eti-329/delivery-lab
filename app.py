@@ -4,3 +4,4 @@ def health_payload():
         "status": "ok",
         "version": "dev",
     }
+print("Hello, Power Tech! Welcome to delivery-lab.")
