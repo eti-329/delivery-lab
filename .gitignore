@@ -12,3 +12,9 @@ build/
 *.egg-info/
 .vscode/
 .idea/
+# Local NetFree certificate files
+netfree-root*.cer
+netfree-root*.pem
+test_ssl.py
+
+wheelhouse/

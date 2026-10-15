@@ -6,3 +6,7 @@ __pycache__/
 .venv/
 .idea/
 .DS_Store
+netfree-root*.cer
+netfree-root*.pem
+test_ssl.py
+
